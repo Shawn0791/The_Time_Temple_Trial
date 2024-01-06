@@ -1,0 +1,3 @@
+rep "Every10Seconds@oliver_dic@cloud.cn"
+  path "/"
+    smartbranch "/main"
